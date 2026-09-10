@@ -28,7 +28,7 @@ pip install -r requirements.txt
 jupyter lab qtc_main.ipynb
 ```
 
-Run the cells in order. `RESTORE = True` in `qtclib/config.py` loads saved
+Run the cells in order. `RESTORE = True` in `config.py` loads saved
 checkpoints and skips training. Training three segmentation models plus three
 objectives takes a few hours on an Apple M-series GPU; everything after that is
 minutes on CPU.
