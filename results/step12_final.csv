@@ -1,0 +1,4 @@
+stage,coverage %,n,bias,MAE,SD,P90,over50,within15,MAE/floor
+beatssl as trained,100.0,196,6.36,27.44,42.02,45.09,9.18,31.63,3.58
++ T-offset refinement,100.0,196,-8.97,17.91,35.85,43.02,9.18,72.96,2.34
++ rejection gate,75.51,148,-1.05,9.02,17.32,17.87,1.35,85.81,1.18

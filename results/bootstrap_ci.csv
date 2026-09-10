@@ -1,0 +1,13 @@
+data,method,n,MAE,lo,hi
+LUDB external (refined),dwt,194,53.34,46.93,59.96
+LUDB external (refined),cwt,146,46.03,38.71,53.9
+LUDB external (refined),unet,196,18.34,14.01,23.69
+LUDB external (refined),beatssl,196,17.91,13.65,23.02
+LUDB external (refined),physiowave,196,25.32,19.19,32.68
+LUDB external (refined),qtcnet,197,16.45,13.38,20.14
+ISP internal (raw),dwt,94,37.0,30.53,44.65
+ISP internal (raw),cwt,86,26.41,18.51,36.21
+ISP internal (raw),unet,93,14.49,9.56,21.44
+ISP internal (raw),beatssl,94,12.82,8.61,19.37
+ISP internal (raw),physiowave,94,17.92,13.52,23.55
+ISP internal (raw),qtcnet,94,26.15,22.1,30.82

@@ -1,0 +1,4 @@
+model,n,prolonged,sens,spec,acc
+unet,196,40,52.5,93.6,85.2
+beatssl,196,40,42.5,96.8,85.7
+physiowave,196,40,40.0,91.7,81.1

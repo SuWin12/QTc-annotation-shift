@@ -1,0 +1,7 @@
+objective,refinement,n,bias,MAE,SD,val F1
+A cross-entropy,no refinement,195,7.93,30.81,47.9,0.92
+A cross-entropy,refined,195,-9.36,21.12,44.68,
+B boundary-weighted,no refinement,195,3.09,32.72,54.98,0.91
+B boundary-weighted,refined,195,-13.64,23.81,51.72,
+C interval-aware,no refinement,195,10.03,27.23,38.92,0.91
+C interval-aware,refined,195,-7.21,18.59,36.95,

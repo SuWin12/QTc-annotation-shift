@@ -1,0 +1,4 @@
+model,QTc none,QTc constant,QTc geometry,gap,fitted shift,Toff none,Toff constant,Toff geometry
+unet,28.69,19.25,18.34,0.9,-18,17.69,16.04,15.24
+beatssl,27.44,19.82,17.91,1.91,-20,19.27,20.95,17.23
+physiowave,32.52,26.38,25.32,1.06,-16,24.78,22.15,20.38

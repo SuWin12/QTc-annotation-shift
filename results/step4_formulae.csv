@@ -1,0 +1,6 @@
+formula,n,mean QTc,slope vs HR
+bazett,197,421.355,0.781
+fridericia,197,413.211,-0.087
+framingham,197,412.745,-0.075
+hodges,197,413.606,-0.028
+rautaharju,197,415.581,0.158

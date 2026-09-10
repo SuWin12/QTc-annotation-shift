@@ -1,0 +1,4 @@
+model,QRS bias,QRS MAE,Toff bias,Toff MAE,interval error
+unet,-6.33,9.92,8.06,17.69,14.4
+beatssl,-7.28,9.91,3.83,19.27,11.11
+physiowave,-3.82,12.26,11.1,24.78,14.92

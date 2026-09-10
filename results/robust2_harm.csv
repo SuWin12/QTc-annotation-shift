@@ -1,0 +1,19 @@
+formula,model,data,without,bias w/o,with,bias with,change
+bazett,unet,ISP held out,14.49,-10.8,30.88,-30.32,16.39
+bazett,unet,LUDB unseen,28.69,12.59,18.34,-4.72,-10.35
+bazett,beatssl,ISP held out,12.82,-8.57,29.15,-28.55,16.33
+bazett,beatssl,LUDB unseen,27.44,6.36,17.91,-8.97,-9.53
+bazett,physiowave,ISP held out,17.92,-9.96,30.97,-29.43,13.05
+bazett,physiowave,LUDB unseen,32.52,6.76,25.32,-10.21,-7.2
+fridericia,unet,ISP held out,14.09,-10.55,29.85,-29.59,15.76
+fridericia,unet,LUDB unseen,27.92,13.04,17.12,-4.03,-10.79
+fridericia,beatssl,ISP held out,12.63,-8.74,28.47,-28.1,15.84
+fridericia,beatssl,LUDB unseen,26.32,6.92,16.76,-8.41,-9.56
+fridericia,physiowave,ISP held out,16.63,-9.04,29.19,-28.13,12.56
+fridericia,physiowave,LUDB unseen,31.61,7.62,24.04,-9.58,-7.57
+hodges,unet,ISP held out,13.77,-10.3,28.44,-27.97,14.67
+hodges,unet,LUDB unseen,26.95,12.85,16.57,-3.69,-10.39
+hodges,beatssl,ISP held out,12.4,-8.59,26.99,-26.53,14.59
+hodges,beatssl,LUDB unseen,25.63,6.92,16.14,-7.91,-9.49
+hodges,physiowave,ISP held out,15.7,-8.74,27.77,-26.46,12.07
+hodges,physiowave,LUDB unseen,30.45,7.15,23.19,-9.18,-7.26

@@ -1,0 +1,10 @@
+formula,model,constant,geometry,gap,fitted shift
+bazett,unet,19.25,18.34,0.9,-18
+bazett,beatssl,19.82,17.91,1.91,-20
+bazett,physiowave,26.38,25.32,1.06,-16
+fridericia,unet,18.24,17.12,1.11,-18
+fridericia,beatssl,18.62,16.76,1.86,-20
+fridericia,physiowave,25.21,24.04,1.17,-16
+hodges,unet,17.78,16.57,1.22,-18
+hodges,beatssl,17.97,16.14,1.83,-20
+hodges,physiowave,24.3,23.19,1.12,-16

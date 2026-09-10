@@ -1,0 +1,7 @@
+model,data,without,bias without,with,bias with,change
+unet,ISP held out,14.49,-10.8,30.88,-30.32,16.39
+unet,LUDB unseen,28.69,12.59,18.34,-4.72,-10.35
+beatssl,ISP held out,12.82,-8.57,29.15,-28.55,16.33
+beatssl,LUDB unseen,27.44,6.36,17.91,-8.97,-9.53
+physiowave,ISP held out,17.92,-9.96,30.97,-29.43,13.05
+physiowave,LUDB unseen,32.52,6.76,25.32,-10.21,-7.2
